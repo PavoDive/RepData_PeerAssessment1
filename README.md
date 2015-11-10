@@ -1,3 +1,10 @@
+Reproducible Research - Project 1
+=================================
+
+This repo is associated with project 1 of Reproducible research.
+
+Below, the original assignment:
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
